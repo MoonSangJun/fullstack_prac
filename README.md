@@ -1,2 +1,2 @@
 # fullstack_prac
-full stack parctice
+Day 1: GitHub PR flow practice
